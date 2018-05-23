@@ -1,16 +1,8 @@
 ## Welcome to GitHub Pages
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Master Thesis, Digital Systems Security, University of Piraeus
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
