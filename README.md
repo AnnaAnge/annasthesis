@@ -2,24 +2,16 @@
 ## Master Thesis, Digital Systems Security, University of Piraeus
 
 ```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+This job aims to explore FIDO protocols (UAF, U2F) and integrate some operations within Trusted Environments, using Open-TEE project.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[OpenTEE](https://open-tee.github.io) and ![Image](src)
+[FIDOvideo]()
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnnaAnge/annasthesis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
