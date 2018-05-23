@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
 ## Master Thesis, Digital Systems Security, University of Piraeus
 
-```markdown
 This job aims to explore FIDO protocols (UAF, U2F) and integrate some operations within Trusted Environments, using Open-TEE project.
-
-
 
 [OpenTEE](https://open-tee.github.io) 
 [FIDOspecs](https://fidoalliance.org/download/)
 [FIDOexplanation](https://www.youtube.com/watch?v=msOSkU__xH0)
-```
+
 
 
 
