@@ -3,14 +3,18 @@
 This job aims to explore FIDO protocols (UAF, U2F) and integrate some operations within Trusted Environments, using Open-TEE project.
 
 
-_You can find more information about Open-TEE:_
+_You can find more information about 
+
+Open-TEE:_
 [OpenTEE](https://open-tee.github.io) 
+
 _FIDO Specification:_
 [FIDOspecs](https://fidoalliance.org/download/)
-_And FIDO Technical Overview:_
+
+_FIDO Technical Overview:_
 [FIDOexplanation](https://www.youtube.com/watch?v=msOSkU__xH0)
 
-Also my thesis is published in: http://dione.lib.unipi.gr/xmlui/handle/unipi/11387 
+_Also my thesis is published in:_ (http://dione.lib.unipi.gr/xmlui/handle/unipi/11387) 
 
 
 
