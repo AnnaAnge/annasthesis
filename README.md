@@ -10,6 +10,8 @@ _FIDO Specification:_
 _And FIDO Technical Overview:_
 [FIDOexplanation](https://www.youtube.com/watch?v=msOSkU__xH0)
 
+Also my thesis is published in: http://dione.lib.unipi.gr/xmlui/handle/unipi/11387 
+
 
 
 
